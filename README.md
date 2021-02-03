@@ -12,7 +12,7 @@ print("I mainly code in python \n")
 #include<iostream>
 using namespace std;
 int main(){
-  cout << "I also know a bit of C++"; endl;
+  cout << "I also know a bit of C++" << endl;
   return 0;
 }
 ```
