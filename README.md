@@ -20,12 +20,24 @@ int main(){
 ```html
 <!DOCTYPE html>
 <html lang="en">
-  <head> What else do I know? </head>
-  
+  <head>
+    <title>What else do i know?</title>
+    <style>
+      p{
+        color: blue;
+      }
+    </style>
+  </head>
   <body>
     <h1>I also know html</h1>
-    <p> I am a beginner at CSS </p>
+    <p>..... and CSS </p>
   </body>
  
 </html>
+```
+
+
+```js
+console.log("I am a beginner at JavaScript");
+alert("Its FUN!!");
 ```
